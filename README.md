@@ -168,4 +168,6 @@ We would change Pic 1 at col = 0, row = 0 to Red:10, Green:100, Blue:200.
 
 Once you’ve successfully finished averaged the faces of men in the files listed (all files starting with 'a'), change the set of faces that you average to the faces of women (all files starting with 'z'). Reflect on the following questions:
 * Do the two sets look significantly different from the other?
+*No they look similar actually someone might say that they are related to each other but overall they have a similar face
 * Are there faces that seem particularly important to the final visual output?
+*The only thing that is different is the male photo is bigger and bulker so its easy to tell its multiuple images merged together while the female one is all blurred into one making it hard to differenate which is which.
